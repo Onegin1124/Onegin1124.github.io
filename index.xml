@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>My Hugo FixIt Site</title>
-    <link>http://Onegin.github.io/</link>
+    <link>http://Onegin1124.github.io/</link>
     <description>My Hugo FixIt Site</description>
     <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Feb 2023 20:14:22 &#43;0800</lastBuildDate>
-      <atom:link href="http://Onegin.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://Onegin1124.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
   <title>My First Post</title>
-  <link>http://Onegin.github.io/posts/first_post/</link>
+  <link>http://Onegin1124.github.io/posts/first_post/</link>
   <pubDate>Mon, 20 Feb 2023 20:14:22 &#43;0800</pubDate>
   <author>Author</author>
-  <guid>http://Onegin.github.io/posts/first_post/</guid>
+  <guid>http://Onegin1124.github.io/posts/first_post/</guid>
   <description><![CDATA[A blog (a truncation of &ldquo;weblog&rdquo;) is an informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered a single subject or topic.]]></description>
 </item>
 </channel>
