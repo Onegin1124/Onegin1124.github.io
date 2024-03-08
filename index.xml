@@ -3,9 +3,18 @@
     <title>My Hugo FixIt Site</title>
     <link>http://Onegin1124.github.io/</link>
     <description>My Hugo FixIt Site</description>
-    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Feb 2023 20:14:22 &#43;0800</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 09 Mar 2024 01:08:24 &#43;0800</lastBuildDate>
       <atom:link href="http://Onegin1124.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+  <title>Test</title>
+  <link>http://Onegin1124.github.io/posts/test/</link>
+  <pubDate>Sat, 09 Mar 2024 01:08:24 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>http://Onegin1124.github.io/posts/test/</guid>
+  <description><![CDATA[ssh-keygen -t ed25519 -C &ldquo;499107603@qq.com&rdquo;
+git add . git commit -m &ldquo;t1&rdquo; git push]]></description>
+</item>
+<item>
   <title>My First Post</title>
   <link>http://Onegin1124.github.io/posts/first_post/</link>
   <pubDate>Mon, 20 Feb 2023 20:14:22 &#43;0800</pubDate>
