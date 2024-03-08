@@ -6,6 +6,20 @@ git add .
 git commit -m &#34;t1&#34;
 git push
 
+```
+PUT index01
+{
+  &#34;settings&#34;: {
+    &#34;analysis&#34;: {
+      &#34;char_filter&#34;: {}, #对文本进行过滤
+      &#34;tokenizer&#34;: {}, #分词
+      &#34;filter&#34;: {}, #分词后过滤
+      &#34;analyzer&#34;: {}
+    }
+  }
+}
+```
+
 ---
 
 > Author:   
